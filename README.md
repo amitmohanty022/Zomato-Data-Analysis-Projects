@@ -13,7 +13,7 @@ The project aims to solve the following questions:
 6. Which type of restaurants received more offline orders, so that Zomato can provide some good offers?
 
 ## Tools and Libraries Used
-- Python
+- Python 
 - Pandas
 - Matplotlib
 - Seaborn
