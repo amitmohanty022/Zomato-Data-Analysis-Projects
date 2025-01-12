@@ -7,7 +7,7 @@ This project performs data analysis on Zomato data using Python to gain insights
 The project aims to solve the following questions:
 1. What type of restaurant do the majority of customers order from?
 2. How many votes has each type of restaurant received from customers?
-3. What are the ratings that the majority of restaurants have received?
+3. What are the ratings that the majority of restaurants have received? 
 4. What is the average spending of couples who mostly order food online?
 5. Which mode (online or offline) has the maximum rating?
 6. Which type of restaurants received more offline orders, so that Zomato can provide some good offers?
