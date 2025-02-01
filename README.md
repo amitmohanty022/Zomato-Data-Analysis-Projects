@@ -2,7 +2,7 @@
 
 ## Project Overview
 This project performs data analysis on Zomato data using Python to gain insights into customer preferences, restaurant types, and service modes. Various visualizations and statistical techniques were used to extract meaningful patterns and solve key business questions related to Zomato's operations.
-
+   
 ## Objectives
 The project aims to solve the following questions:
 1. What type of restaurant do the majority of customers order from?
