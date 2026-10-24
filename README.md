@@ -1,5 +1,11 @@
 # Zomato Data Analysis Project Using Python
 
+**🔗 Run it live:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amitmohanty022/Zomato-Data-Analysis-Projects/blob/main/Zomato_Analysis_project.ipynb) · [View the notebook on GitHub](https://github.com/amitmohanty022/Zomato-Data-Analysis-Projects/blob/main/Zomato_Analysis_project.ipynb)
+
+The notebook reads `/content/Zomato data .csv`, so in Colab upload the Zomato CSV to the session (Files panel) before running it.
+
+![Analysis screenshot](Screenshot%202025-01-08%20150337.png)
+
 ## Project Overview
 This project performs data analysis on Zomato data using Python to gain insights into customer preferences, restaurant types, and service modes. Various visualizations and statistical techniques were used to extract meaningful patterns and solve key business questions related to Zomato's operations.
    
@@ -36,14 +42,21 @@ The project aims to solve the following questions:
 ## How to Run the Project
 1. Clone this repository:
    ```bash
-   git clone <repository_link>
+   git clone https://github.com/amitmohanty022/Zomato-Data-Analysis-Projects.git
+   cd Zomato-Data-Analysis-Projects
    ```
 2. Install the required libraries:
    ```bash
-   pip install pandas matplotlib seaborn
+   pip install jupyter pandas numpy matplotlib seaborn
    ```
-3. Run the Jupyter Notebook or Python script containing the analysis.
+3. Open the notebook:
+   ```bash
+   jupyter notebook Zomato_Analysis_project.ipynb
+   ```
 
 ## Contributing
 Contributions are welcome! Feel free to submit pull requests with improvements or additional features.
 
+## Author
+
+**Amit Kumar Mohanty** · [GitHub](https://github.com/amitmohanty022) · [LinkedIn](https://www.linkedin.com/in/amitkrmohanty/)
